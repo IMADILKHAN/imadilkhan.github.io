@@ -14,7 +14,7 @@ const greeting = {
   username: "Adil Khan",
   title: "Hi all, I'm Adil Khan",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Python/Nodejs and some other libraries and framework. An ardent lover of Data Structures and Algorithms."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Python/Django/Nodejs and some other libraries and framework. An ardent lover of Data Structures and Algorithms."
   ),
   // resumeLink:""
     // "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
@@ -39,15 +39,15 @@ const socialMediaLinks = {
 // Skills Section
 
 const skillsSection = {
-  title: "What I do",
-  subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  title: "WHO AM I ?",
+  subTitle: "A FULL SOFTWARE DEVELOPER WHO LIKES TO BUILD WEB APPS AND PROBLEM SOLVING.",
   skills: [
     emoji(
       "⚡ Develop highly interactive Front end / User Interfaces for your web and mobile applications"
     ),
-    emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
+    emoji("⚡ Develop complex backends supporting each and every need."),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Firebase/ AWS "
     )
   ],
 
@@ -224,52 +224,47 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "Google Code-In Finalist",
+      title: "IICC- Innovate India Coding Championship",
       subtitle:
-        "First Pakistani to be selected as Google Code-in Finalist from 4000 students from 77 different countries.",
-      image: require("./assets/images/codeInLogo.webp"),
+      "Secured a rank of 103 among 90,000 participants.",
+      image: require("./assets/images/iicc.png"),
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://drive.google.com/file/d/1pttxTgC4q8BwESvO72juevwLth15ZH1Y/view?usp=sharing"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
-        },
-        {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Linkedin Blog",
+          url: "https://www.linkedin.com/posts/i-am-adil-khan_datastructures-algorithms-codingninjas-activity-6956555262593806337-nG2I?utm_source=linkedin_share&utm_medium=member_desktop_web"
         }
       ]
-    },
-    {
-      title: "Google Assistant Action",
-      subtitle:
-        "Developed a Google Assistant Action JavaScript Guru that is available on 2 Billion devices world wide.",
-      image: require("./assets/images/googleAssistantLogo.webp"),
-      footerLink: [
+  },
+  {
+    title: "Global rank 141",
+    subtitle:
+    "Secured a rank of 141 globally and 23rd rank in india among 18000 participants",
+    image: require("./assets/images/leetcode_rank.jpeg"),
+    footerLink: [
         {
-          name: "View Google Assistant Action",
-          url: "https://assistant.google.com/services/a/uid/000000100ee688ee?hl=en"
+          name: "Linkedin Blog",
+          url:"https://www.linkedin.com/posts/i-am-adil-khan_micorsoft-discussions-leetcode-activity-6906123311777222656-QQU2?utm_source=linkedin_share&utm_medium=member_desktop_web"
         }
-      ]
-    },
-
-    {
-      title: "PWA Web App Developer",
-      subtitle: "Completed Certifcation from SMIT for PWA Web App Development",
-      image: require("./assets/images/pwaLogo.webp"),
-      footerLink: [
-        {name: "Certification", url: ""},
-        {
-          name: "Final Project",
-          url: "https://pakistan-olx-1.firebaseapp.com/"
-        }
-      ]
-    }
+    ]
+},
+  {
+    title: "Knight on Leetcode",
+    subtitle:
+    "Ranked among the top 4% of users on Leetcode",
+    image: require("./assets/images/leetcode_snap.jpeg"),
+    footerLink: [
+      {
+        name: "Profile",
+        url: "https://leetcode.com/imadilkhan/"
+      }
+    ]
+}
   ],
-  display: false // Set false to hide this section, defaults to true
+  display: true // Set false to hide this section, defaults to true
 };
 
 // Blogs Section
