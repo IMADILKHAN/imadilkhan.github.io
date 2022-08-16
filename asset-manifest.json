@@ -1,30 +1,30 @@
 {
   "files": {
     "main.css": "/static/css/main.a3d71a0a.css",
-    "main.js": "/static/js/main.d13126b5.js",
+    "main.js": "/static/js/main.b47bc394.js",
     "static/css/141.27c49f1b.chunk.css": "/static/css/141.27c49f1b.chunk.css",
     "static/js/141.cb896978.chunk.js": "/static/js/141.cb896978.chunk.js",
     "static/css/769.70f3b610.chunk.css": "/static/css/769.70f3b610.chunk.css",
     "static/js/769.8e3dac55.chunk.js": "/static/js/769.8e3dac55.chunk.js",
     "static/media/Real_estate.png": "/static/media/Real_estate.7b61d853f418bcf24644.png",
     "static/media/homepage.png": "/static/media/homepage.172207d73d99af797aeb.png",
+    "static/media/iicc.png": "/static/media/iicc.f3a99ee41c628fa32881.png",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
+    "static/media/leetcode_rank.jpeg": "/static/media/leetcode_rank.dfb7761cb587eb55c9fd.jpeg",
     "static/media/sfsLogo.png": "/static/media/sfsLogo.785b09910f416abca018.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/manOnTable.svg": "/static/media/manOnTable.8f117eb207e57ed8f89d67d595aceb45.svg",
     "static/media/contactMailDark.svg": "/static/media/contactMailDark.1db650d351729a0f17b4e3104e6a7b7a.svg",
+    "static/media/leetcode_snap.jpeg": "/static/media/leetcode_snap.b15313fd81a9748fb525.jpeg",
     "static/media/quoraLogo.png": "/static/media/quoraLogo.85eb29f4d52320c8ed99.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.2c0445cae86f4243433a2f5a22b2c031.svg",
-    "static/media/googleAssistantLogo.webp": "/static/media/googleAssistantLogo.f720c71652579588524a.webp",
     "static/media/airbnbLogo.png": "/static/media/airbnbLogo.e8497507db673acd3991.png",
     "static/media/facebookLogo.png": "/static/media/facebookLogo.f46d68b24e9b4f73ee8b.png",
-    "static/media/codeInLogo.webp": "/static/media/codeInLogo.e41a71d512efeda2a55c.webp",
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
-    "static/media/pwaLogo.webp": "/static/media/pwaLogo.8bf2293da0ca66249e37.webp",
     "index.html": "/index.html",
     "static/media/talksCardBack.svg": "/static/media/talksCardBack.73ed1545d58273ba64b0.svg",
     "main.a3d71a0a.css.map": "/static/css/main.a3d71a0a.css.map",
-    "main.d13126b5.js.map": "/static/js/main.d13126b5.js.map",
+    "main.b47bc394.js.map": "/static/js/main.b47bc394.js.map",
     "141.27c49f1b.chunk.css.map": "/static/css/141.27c49f1b.chunk.css.map",
     "141.cb896978.chunk.js.map": "/static/js/141.cb896978.chunk.js.map",
     "769.70f3b610.chunk.css.map": "/static/css/769.70f3b610.chunk.css.map",
@@ -32,6 +32,6 @@
   },
   "entrypoints": [
     "static/css/main.a3d71a0a.css",
-    "static/js/main.d13126b5.js"
+    "static/js/main.b47bc394.js"
   ]
 }
